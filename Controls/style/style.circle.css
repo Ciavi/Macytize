@@ -13,7 +13,7 @@
     height: 28px !important;
     width: 28px !important;
     
-    opacity: .5 !important;
+    opacity: .75 !important;
     transition: opacity .5s ease-in-out, background .5s ease-in-out !important;
 }
 
@@ -21,7 +21,7 @@
     background: url('../circle/close_hover.svg') no-repeat center center !important;
     background-size: 18px 18px !important;
     
-    opacity: .8 !important;
+    opacity: 1 !important;
 }
 
 .winButtonMinMax-PBQ2gm {
@@ -30,7 +30,7 @@
     height: 28px !important;
     width: 28px !important;
     
-    opacity: .5 !important;
+    opacity: .75 !important;
     transition: opacity .5s ease-in-out, background .5s ease-in-out !important;
 }
 
@@ -38,7 +38,7 @@
     background: url('../circle/minimize_hover.svg') no-repeat center center !important;
     background-size: 18px 18px !important;
     
-    opacity: .8 !important;
+    opacity: 1 !important;
 }
 
 .titleBar-AC4pGV > .winButtonMinMax-PBQ2gm ~ .winButtonMinMax-PBQ2gm {
@@ -47,7 +47,7 @@
     height: 28px !important;
     width: 28px !important;
     
-    opacity: .5 !important;
+    opacity: .75 !important;
     transition: opacity .5s ease-in-out, background .5s ease-in-out !important;
 }
 
@@ -55,5 +55,5 @@
     background: url('../circle/maximize_hover.svg') no-repeat center center !important;
     background-size: 18px 18px !important;
     
-    opacity: .8 !important;
+    opacity: 1 !important;
 }
