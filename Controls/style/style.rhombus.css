@@ -1,0 +1,59 @@
+.titleBar-AC4pGV{
+    flex-direction: row !important;
+    height: 28px !important;
+}
+
+.wordmark-2iDDfm {
+    display: none !important;
+}
+
+.winButtonClose-1HsbF-{
+    background: url('../rhombus/close.svg') no-repeat center center !important;
+    background-size: 18px 18px !important;
+    height: 28px !important;
+    width: 28px !important;
+    
+    opacity: .5 !important;
+    transition: opacity .5s ease-in-out, background .5s ease-in-out !important;
+}
+
+.winButtonClose-1HsbF-:hover{
+    background: url('../rhombus/close_hover.svg') no-repeat center center !important;
+    background-size: 18px 18px !important;
+    
+    opacity: .8 !important;
+}
+
+.winButtonMinMax-PBQ2gm {
+    background: url('../rhombus/minimize.svg') no-repeat center center !important;
+    background-size: 18px 18px !important;
+    height: 28px !important;
+    width: 28px !important;
+    
+    opacity: .5 !important;
+    transition: opacity .5s ease-in-out, background .5s ease-in-out !important;
+}
+
+.winButtonMinMax-PBQ2gm:hover {
+    background: url('../rhombus/minimize_hover.svg') no-repeat center center !important;
+    background-size: 18px 18px !important;
+    
+    opacity: .8 !important;
+}
+
+.titleBar-AC4pGV > .winButtonMinMax-PBQ2gm ~ .winButtonMinMax-PBQ2gm {
+    background: url('../rhombus/maximize.svg') no-repeat center center !important;
+    background-size: 18px 18px !important;
+    height: 28px !important;
+    width: 28px !important;
+    
+    opacity: .5 !important;
+    transition: opacity .5s ease-in-out, background .5s ease-in-out !important;
+}
+
+.titleBar-AC4pGV > .winButtonMinMax-PBQ2gm ~ .winButtonMinMax-PBQ2gm:hover {
+    background: url('../rhombus/maximize_hover.svg') no-repeat center center !important;
+    background-size: 18px 18px !important;
+    
+    opacity: .8 !important;
+}
