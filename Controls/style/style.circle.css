@@ -8,6 +8,8 @@
 }
 
 .winButtonClose-1HsbF-{
+    background-image: none !important;
+    background-color: transparent !important;
     background: url('../circle/close.svg') no-repeat center center !important;
     background-size: 16px 16px !important;
     height: 28px !important;
@@ -18,6 +20,8 @@
 }
 
 .winButtonClose-1HsbF-:hover{
+    background-image: none !important;
+    background-color: transparent !important;
     background: url('../circle/close_hover.svg') no-repeat center center !important;
     background-size: 16px 16px !important;
     
@@ -25,6 +29,8 @@
 }
 
 .winButtonMinMax-PBQ2gm {
+    background-image: none !important;
+    background-color: transparent !important;
     background: url('../circle/minimize.svg') no-repeat center center !important;
     background-size: 16px 16px !important;
     height: 28px !important;
@@ -35,6 +41,8 @@
 }
 
 .winButtonMinMax-PBQ2gm:hover {
+    background-image: none !important;
+    background-color: transparent !important;
     background: url('../circle/minimize_hover.svg') no-repeat center center !important;
     background-size: 16px 16px !important;
     
@@ -42,6 +50,8 @@
 }
 
 .titleBar-AC4pGV > .winButtonMinMax-PBQ2gm ~ .winButtonMinMax-PBQ2gm {
+    background-image: none !important;
+    background-color: transparent !important;
     background: url('../circle/maximize.svg') no-repeat center center !important;
     background-size: 16px 16px !important;
     height: 28px !important;
@@ -52,6 +62,8 @@
 }
 
 .titleBar-AC4pGV > .winButtonMinMax-PBQ2gm ~ .winButtonMinMax-PBQ2gm:hover {
+    background-image: none !important;
+    background-color: transparent !important;
     background: url('../circle/maximize_hover.svg') no-repeat center center !important;
     background-size: 16px 16px !important;
     
