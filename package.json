@@ -1,0 +1,23 @@
+{
+  "name": "norda",
+  "version": "0.0.1",
+  "description": "A beautiful and simplistic UI framework for the Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "css",
+    "js",
+    "web",
+    "framework"
+  ],
+  "author": "Ciavi",
+  "license": "ISC",
+  "devDependencies": {
+    "@swc/cli": "^0.1.55",
+    "@swc/core": "^1.2.123"
+  }
+}
